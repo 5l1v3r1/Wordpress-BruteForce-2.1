@@ -19,8 +19,8 @@ import socket
 
 --lista - Lista de sites wordpress alvos<br>
 --wordlist - Wordlist de senhas<br>
---usuario - <b>Somente use essa opção para brutar usuarios unicos, o script captura usuarios automaticamente.</b>
---reverse - <b>Use essa opção para pegar outros sites wordpress do mesmo servidor</b>
+--usuario - <b>Somente use essa opção para brutar usuarios unicos, o script captura usuarios automaticamente.</b><br>
+--reverse - <b>Use essa opção para pegar outros sites wordpress do mesmo servidor</b><br>
 --sleep - Regule a velocidade dos threads, mas cuidado que isso pode atrapalhar <b>(melhor deixar padrão)</b>
 
 
